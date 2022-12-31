@@ -19,6 +19,7 @@
   "homepage": "https://github.com/MatthewYee92/typescriptFun#readme",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
-    "@babel/core": "^7.20.7"
+    "@babel/core": "^7.20.7",
+    "@babel/preset-env": "^7.20.2"
   }
 }
