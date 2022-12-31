@@ -1,0 +1,2 @@
+# typescriptFun
+launch with typescript 
