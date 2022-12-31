@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MatthewYee92/typescriptFun/issues"
   },
-  "homepage": "https://github.com/MatthewYee92/typescriptFun#readme"
+  "homepage": "https://github.com/MatthewYee92/typescriptFun#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.7"
+  }
 }
