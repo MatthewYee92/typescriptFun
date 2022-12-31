@@ -1,0 +1,19 @@
+{
+  "name": "typescriptfun",
+  "version": "1.0.0",
+  "description": "fun with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewYee92/typescriptFun.git"
+  },
+  "author": "Matthew Yee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewYee92/typescriptFun/issues"
+  },
+  "homepage": "https://github.com/MatthewYee92/typescriptFun#readme"
+}
